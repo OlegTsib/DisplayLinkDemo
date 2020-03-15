@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DisplayLink",
+        "repositoryURL": "https://github.com/OlegTsib/DisplayLink.git",
+        "state": {
+          "branch": null,
+          "revision": "1d1074d72a05ab821a3edac8cfbb0df4bdce4c14",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
